@@ -60,3 +60,8 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [06:15:33 | 15-02-2025] ✅ Node started for 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d
+[07:37:30 | 15-02-2025] Wallet Address: 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d
+[07:37:30 | 15-02-2025] Node Points: 0
+[07:37:30 | 15-02-2025] Last Claim Point: 15/02/2024 00:37:30
+[07:37:31 | 15-02-2025] ✅ Points claimed for 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d
+[07:37:32 | 15-02-2025] 🚨 Failed to start node for 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d: [object Object]
