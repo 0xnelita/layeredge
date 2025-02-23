@@ -224,3 +224,6 @@
 [15:09:26 | 23-02-2025] Last Claim Point: 21/02/2025 16:09:23
 [15:09:27 | 23-02-2025] ✅ Points claimed for 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d
 [15:09:28 | 23-02-2025] 🚨 Failed to start node for 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d: [object Object]
+[19:12:45 | 23-02-2025] Wallet Address: 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d
+[19:12:45 | 23-02-2025] Node Points: 157768
+[19:12:45 | 23-02-2025] Last Claim Point: 23/02/2025 08:09:27
